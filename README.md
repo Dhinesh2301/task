@@ -26,7 +26,7 @@ To develop an Android application using SQLite Database to store country names a
 
 ### DatabaseHelper.java
 
-```java
+```
 package com.example.countrycurrency;
 
 import android.content.Context;
